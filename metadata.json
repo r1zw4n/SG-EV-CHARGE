@@ -1,0 +1,6 @@
+{
+  "name": "SG CHARGING LOCATER",
+  "description": "EV charging locator in Singapore to find the nearest and fastest charging stations with charging times from 20%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
